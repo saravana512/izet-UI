@@ -1,12 +1,25 @@
-# React + Vite
+# I-ZET Payments (Realtime Chat Application)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The Realtime Chat Application Between 2 Users.
 
-Currently, two official plugins are available:
+## Installation
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+To install and run the application locally, follow these steps:
 
-## Expanding the ESLint configuration
+1. Clone the repository:
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+   ```sh
+   git clone https://github.com/saravana512/izet-UI.git
+   cd izet-UI
+   ```
+
+2. Install dependencies:
+
+   ```sh
+   npm install
+   ```
+
+3. Start the application:
+   ```sh
+   npm run dev
+   ```
